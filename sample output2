@@ -1,0 +1,23 @@
+Enter number of bedrooms: 3  
+Enter number of bathrooms: 2  
+Enter square feet: 1800  
+
+Predicted House Price: $420,345.67
+
+Visualization
+
+A scatter plot showing Actual vs Predicted Prices is displayed after the prediction.
+
+How to Run
+
+1. Make sure the dataset (e.g., usa.csv) is in the same folder as the script.
+
+
+2. Run the script using:
+
+
+
+python house_price_predictor.py
+
+
+---
